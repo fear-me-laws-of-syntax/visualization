@@ -16,6 +16,7 @@
 
         Bad visualization:
 
+
   02_activities/assignments/bad .png
   https://datavizproject.com/wp-content/uploads/examples/Sk%C3%A6rmbillede-2016-01-22-kl.-14.39.53-150x150.png
 
