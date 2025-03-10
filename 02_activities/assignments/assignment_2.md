@@ -17,9 +17,7 @@
         Bad visualization:
 
 
-  02_activities/assignments/bad .png
-  https://datavizproject.com/wp-content/uploads/examples/
-  02_activities/assignments/bad .png
+
 
 
         ```
