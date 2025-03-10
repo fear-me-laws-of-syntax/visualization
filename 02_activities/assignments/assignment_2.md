@@ -18,6 +18,7 @@
 Good visualization:
 
 Bad visualization:
+02_activities/assignments/bad .png
 
         ```
       - How could this data visualization have been improved?
