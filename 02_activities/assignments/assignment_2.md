@@ -16,22 +16,25 @@
   ```
 
 Good visualization:
+https://public.tableau.com/app/profile/lisa.trescott/viz/HowCommonIsYourBirthday_17222664505560/Birthday
+02_activities/assignments/assignment_2_good.png
+
+"How Common Is Your Birthday?" visualization is engaging and easy to understand. It effectively shows how common different birthday dates are in the U.S. from 1994 to 2014. The ranking system is interactive and intuitive, allowing to quickly check the popularity of any given date. This makes the data easy to explore and fun to interact with.
+The design is visually appealing, using a soft pink color scheme with different shades to represent frequency. The heatmap follows a gradient: darker shades indicate more common birthdays, and lighter - less common. This use of color shades makes the visualization easy to interpret and makes it accessible even for people with color blindness.
+The visualization also includes text explanations with helpful context, making it even easier to understand what the chart represents. The data source is clearly listed at the bottom for transparency.
+Overall, this visualization does a great job of presenting complex data in a simple and engaging way. It's aesthetic, functional, informative and visually appealing.
 
 Bad visualization:
-02_activities/assignments/bad .png
+02_activities/assignments/assignment_2_bad.png
+https://datavizproject.com/data-type/line-chart/
 
-        ```
-      - How could this data visualization have been improved?
-        ```
-        Your answer...
+This data visualization isn't very effective because the way it is designed makes it difficult to understand at a glance. The use of a 3D grid and perspective distorts the data, making it harder to see patterns and relationships between different transport modes. Since the perspective is distorted, it is making accurate comparisons more challenging.
+Another issue is the color scheme. The background color is quite strong, which reduces contrast and makes the data points harder to read. Additionally, the visualization doesn't provide alternative patterns or text descriptions to help colorblind users distinguish between the different data points. This makes it less accessible for people with visual impairments.
+There are also labeling problems. Even though the different transport modes are listed on the left, it is unclear what the axes represent. Without clear labels or a legend explaining the meaning of the colors and axes, it's difficult to interpret the data correctly.
 
+How could this data visualization have been improved?
 
-
-
-
-
-
-        ```
+Instead of 3D perspective, we could use a simpler 2D line graph. This would prevent distortion and make the data easier to compare. We should also include clear labels and a legend, to explain what each color and axis represent. To improve contrast, we can use a neutral/ white background. To make the visualization more accessible, we can use patterns along with colors, so that people who are colorblind can still interpret the information accurately.
 
 ```
 
