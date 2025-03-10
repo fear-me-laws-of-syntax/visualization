@@ -11,14 +11,13 @@
 
   - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
 
-  ````
+  ```
   Your answer...
+  ```
 
-        Bad visualization:
+Good visualization:
 
-
-
-
+Bad visualization:
 
         ```
       - How could this data visualization have been improved?
@@ -33,10 +32,10 @@
 
         ```
 
-  ````
+```
 
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e.
-  300 words for your good example and 500 for your bad example)
+300 words for your good example and 500 for your bad example)
 
 ### Why am I doing this assignment?:
 
@@ -61,9 +60,9 @@
 - Submission Due Date: `23:59 - 02/03/2025`
 - The branch name for your repo should be: `assignment-2`
 - What to submit for this assignment:
-  - This markdown file (assignment_2.md) should be populated and should be the only change in your pull request.
+- This markdown file (assignment_2.md) should be populated and should be the only change in your pull request.
 - What the pull request link should look like for this assignment: `https://github.com/<your_github_username>/visualization/pull/<pr_id>`
-  - Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
+- Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
 
@@ -73,3 +72,4 @@ Checklist:
 - [ ] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
+```
