@@ -11,13 +11,15 @@
 
   > What software did you use to create your data visualization?
 
-  Visualization 1: I used Python with Seaborn library.
+  Visualization 1: Used Python with Seaborn library.
+  Visualization 2: Used Tableau Public free online visualization tool. (02_activities/assignments/tableau.png)
 
   > Who is your intended audience?
-  > General public interested to know what baby girl names were popular in every decade.
+  > Visualization 1: General public interested to know what baby girl names were popular in every decade.
+  > Visualization 2: Individuals interested to see most popular names given to baby girls by the year, from 1913 to 2023, and what share of total girl names given that year it represented.
 
   > What information or message are you trying to convey with your visualization?
-  > Showing the trends in naming female newborns in Ontario over the decades.
+  > Showing the trends in naming female newborns in Ontario over the decades/ years.
 
   > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
 
@@ -39,10 +41,16 @@
 
   > How did you choose which features of your chosen dataset to include or exclude from your visualization?
 
-  - Including the most frequent name for each individual year would have been overwhelming, so I chose to group them into decades instead.
-  - The most frequently noted name for the decade before 1920s was "M", so I decided to exlude this 1st dataset's decade from my visualization since it appears not to be a full name.
+Visualization 1:
 
-  > What ‘underwater labour’ contributed to your final data visualization product?
+- Including the most frequent name for each individual year would have been overwhelming, so I chose to group them into decades instead.
+- The most frequently noted name for the decade before 1920s was "M", so I decided to exlude this 1st dataset's decade from my visualization since it appears not to be a full name.
+
+Visualization 2:
+
+- Includes all years between 1913 to 2023, with the most popular name given in each year.
+
+> What ‘underwater labour’ contributed to your final data visualization product?
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice!
 - Total word count should not exceed **(as a maximum) 1000 words**
